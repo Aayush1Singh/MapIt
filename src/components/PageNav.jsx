@@ -1,10 +1,8 @@
 import { Link } from "react-router-dom";
 import styles from "./PageNav.module.css";
-import Logo from "./Logo";
 function PageNav() {
   return (
     <nav className={styles.nav}>
-      <Logo></Logo>
       <ul className={styles.nav}>
         {/* <li>
           <Link to="/">Home</Link>
