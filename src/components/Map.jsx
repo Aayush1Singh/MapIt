@@ -4,7 +4,7 @@
 import { Navigate, useNavigate, useSearchParams } from "react-router-dom";
 import Form from "./Form.jsx";
 import { useState } from "react";
-import styles from "./map.module.css";
+import styles from "./Map.module.css";
 import useGeolocation from "./geoLocation.jsx";
 import styles1 from "./Button.module.css";
 // import styles from "./Map.module.css";
