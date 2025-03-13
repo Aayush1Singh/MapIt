@@ -1,0 +1,64 @@
+{
+  "cities": [
+    {
+      "id": "de82",
+      "cityName": "Castello de la Plana",
+      "country": "🇪🇸",
+      "date": "2024-12-16T14:39:39.859Z",
+      "emoji": "🇪🇸",
+      "notes": ".m.\n",
+      "position": {
+        "lat": "40.00381837298926",
+        "lng": "-0.008239746093750002"
+      }
+    },
+    {
+      "id": "c46a",
+      "cityName": "Castello de la Plana",
+      "country": "🇪🇸",
+      "date": "2024-12-16T14:39:55.229Z",
+      "emoji": "🇪🇸",
+      "notes": "",
+      "position": {
+        "lat": "39.973042103591226",
+        "lng": "-0.024555791229077254"
+      }
+    },
+    {
+      "id": "efb2",
+      "cityName": "Castello de la Plana",
+      "country": "🇪🇸",
+      "date": "2024-12-16T14:51:11.236Z",
+      "emoji": "🇪🇸",
+      "notes": "",
+      "position": {
+        "lat": "39.99461325022521",
+        "lng": "-0.03519058227539063"
+      }
+    },
+    {
+      "id": "19df",
+      "cityName": "Mirny",
+      "country": "🇷🇺",
+      "date": "2024-12-16T14:51:16.822Z",
+      "emoji": "🇷🇺",
+      "notes": "lllllllllllllllllllllllllllllllllll\n",
+      "position": {
+        "lat": "65.83415900918398",
+        "lng": "111.09375000000001"
+      }
+    },
+    {
+      "id": "a437",
+      "cityName": "Nome",
+      "country": "🇺🇸",
+      "date": "2024-12-16T15:02:10.436Z",
+      "emoji": "🇺🇸",
+      "notes": "",
+      "position": {
+        "lat": "63.42044892402191",
+        "lng": "-171.5625"
+      }
+    }
+  ]
+}
